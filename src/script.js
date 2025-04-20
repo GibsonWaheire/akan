@@ -9,7 +9,8 @@ let maleNames = ["Kwasi","Kwadwo","Kwabena","Kwaku","Yaw","Kofi","Kwame"];
 let femaleNames = ["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
 let days = ["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 
-// Calculate day index using formula
+// Calculate day index using formula 
+
 function calculateDayIndex(day, month, year) {
   let CC = Math.floor(year / 100);
   let YY = year % 100;
