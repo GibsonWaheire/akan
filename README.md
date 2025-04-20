@@ -46,39 +46,8 @@ akan-name-generator/
 └── LICENSE                 # License file
 
 3. Run the App
-No installation or server setup is required — this is a 100% client-side application.
 
-To run the app locally:
-
-Open the folder akan-name-generator
-
-Double-click on index.html
-or
-
-Right-click index.html → Open with your browser (e.g., Chrome or Firefox)
-
-4. Deploy on GitHub Pages
-To make your project accessible online:
-
-Push the project to GitHub.
-
-Go to your repository’s Settings → Pages.
-
-Under Source, select:
-
-Branch: main
-
-Folder: / (root)
-
-Click Save.
-
-GitHub will generate a public link like:
-
-arduino
-Copy
-Edit
-https://GibsonWaheire.github.io/akan-name-generator/
-🔬 Behavior-Driven Development (BDD)
+# 🔬 Behavior-Driven Development (BDD)
 Feature: Generate Akan Name
 Scenario 1: Valid Input
 Given the user enters a valid birthdate and selects a gender
@@ -97,41 +66,26 @@ Then the system displays an alert prompting for valid input
 🔧 Technologies Used
 
 Technology	Purpose
+
 HTML5	Page structure and form elements
 CSS3	Styling and responsive layout
 JavaScript	Logic, form validation, and behavior
 Git & GitHub	Version control and collaboration
+
 GitHub Pages	Project hosting and deployment
 🌍 Live Link
 You can access the deployed project here:
-https://GibsonWaheire.github.io/akan-name-generator
+(https://gibsonwaheire.github.io/akan/)
 
-Ensure that GitHub Pages is enabled in your repository settings under Settings → Pages.
+
 
 🧾 Code Quality & Project State
-✅ Modern JavaScript (let, const, functions, validation)
 
-✅ Proper indentation and clean, readable syntax
-
-✅ Fully functional and bug-free
-
-✅ Mobile-responsive, visually appealing layout
-
-✅ Over 20 GitHub commits with clear messages
-
-✅ Fully deployed and publicly accessible
-
-✅ All project documentation provided
 
 📫 Contact Information
 For feedback, questions, or collaboration:
 
-📧 Email: gibson.waheire@example.com
-
-🔗 LinkedIn: linkedin.com/in/gibsonwaheire
-
-💻 GitHub: github.com/GibsonWaheire
-
+📧 Email: g.waheir00@gmail.com
 📜 License
 This project is licensed under the MIT License.
 
@@ -139,17 +93,3 @@ This project is licensed under the MIT License.
 
 You are free to use, modify, and distribute this project under the terms of the MIT license.
 
-✅ Final Note
-This project fulfills all requirements for Independent Project 2:
-
- Well-documented README file
-
- 20+ GitHub commits with clear messages
-
- GitHub Pages deployment
-
- Proper JavaScript structure and indentation
-
- Visually polished, mobile-responsive UI
-
- Validations and user-friendly interactions
